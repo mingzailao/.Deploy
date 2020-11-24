@@ -1,1 +1,1 @@
-bash install-oh-my-zsh.sh
+bash install-from-git.sh
