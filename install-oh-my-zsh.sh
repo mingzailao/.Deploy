@@ -5,4 +5,5 @@ git config --global user.name "mingzailao"
 usermod -s /usr/bin/zsh $(whoami)
 sh ./install-from-git.sh
 cp ./.zshrc ~/
+cp ./.p10k.zsh ~/
 cp myexport.zsh ~/
