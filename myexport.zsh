@@ -1,5 +1,7 @@
 export LC_ALL=C.UTF-8
 export PATH=/bin${PATH:+:${PATH}}
+export PATH=/sbin${PATH:+:${PATH}}
+export PATH=/usr/sbin${PATH:+:${PATH}}
 export PATH=/usr/bin${PATH:+:${PATH}}
 export PATH=/usr/local/bin${PATH:+:${PATH}}
 export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
