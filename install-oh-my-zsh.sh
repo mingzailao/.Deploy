@@ -6,4 +6,4 @@ usermod -s /usr/bin/zsh $(whoami)
 sh ./install-from-git.sh
 cp ./.zshrc ~/
 cp ./.p10k.zsh ~/
-ln -s .myexport.zsh ~/
+cp  .myexport.zsh ~/
